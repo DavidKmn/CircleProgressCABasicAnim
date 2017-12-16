@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		631540181FE2DB3F004487E7 /* UIColor_Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631540171FE2DB3F004487E7 /* UIColor_Extension.swift */; };
 		63E1C8AD1FDC5A8C00D3B5D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E1C8AC1FDC5A8C00D3B5D6 /* AppDelegate.swift */; };
 		63E1C8AF1FDC5A8C00D3B5D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E1C8AE1FDC5A8C00D3B5D6 /* ViewController.swift */; };
 		63E1C8B21FDC5A8C00D3B5D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63E1C8B01FDC5A8C00D3B5D6 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		631540171FE2DB3F004487E7 /* UIColor_Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor_Extension.swift; sourceTree = "<group>"; };
 		63E1C8A91FDC5A8C00D3B5D6 /* CircleProgressCABasicAnim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircleProgressCABasicAnim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E1C8AC1FDC5A8C00D3B5D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63E1C8AE1FDC5A8C00D3B5D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				63E1C8AC1FDC5A8C00D3B5D6 /* AppDelegate.swift */,
 				63E1C8AE1FDC5A8C00D3B5D6 /* ViewController.swift */,
+				631540171FE2DB3F004487E7 /* UIColor_Extension.swift */,
 				63E1C8B01FDC5A8C00D3B5D6 /* Main.storyboard */,
 				63E1C8B31FDC5A8C00D3B5D6 /* Assets.xcassets */,
 				63E1C8B51FDC5A8D00D3B5D6 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				63E1C8AF1FDC5A8C00D3B5D6 /* ViewController.swift in Sources */,
 				63E1C8AD1FDC5A8C00D3B5D6 /* AppDelegate.swift in Sources */,
+				631540181FE2DB3F004487E7 /* UIColor_Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
